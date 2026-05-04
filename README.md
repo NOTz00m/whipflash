@@ -13,7 +13,8 @@ If you slack on your reviews, this add-on will ping you in the tray to do your d
 - Cross-platform autostart hook so it opens on system boot.
 
 ## Setup 1
-
+Download from AnkiWeb addons:
+https://ankiweb.net/shared/info/1549373528?cb=1777909267751
 ## Setup 2
 1. Clone / download this repo into your Anki `addons21` folder. You might need to rename the folder if Anki throws a fit.
 2. Restart Anki.
