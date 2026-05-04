@@ -1,0 +1,11 @@
+{
+    "package": "WhipFlashAddon",
+    "name": "WhipFlash - AI Study Automation",
+    "version": "1.0.0",
+    "author": "NOTz00m",
+    "mod": 1714811802,
+    "min_point_version": 45,
+    "max_point_version": 255,
+    "homepage": "https://github.com/NOTz00m/whipflash",
+    "description": "An automated AI study tool that generates flashcards, explains topics, tracks your streak, and spams you with notifications when you slack off."
+}
